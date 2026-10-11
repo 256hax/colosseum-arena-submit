@@ -22,9 +22,9 @@ You do by hand: upload the logo, invite teammates, click `Save draft`, `Save and
 
 ## Install
 
-1. Download [`SKILL.zip`](https://github.com/256hax/colosseum-arena-submit/releases/latest/download/SKILL.zip) from the latest release.
+1. Download [`colosseum-arena-submit-SKILL.zip`](https://github.com/256hax/colosseum-arena-submit/releases/latest/download/colosseum-arena-submit-SKILL.zip) from the latest release.
 2. In Claude desktop, open **Settings > Customize > Skills** and upload the zip.
-3. (Recommended) Also install the [one-liner](https://github.com/256hax/one-liner) skill, used for the Brief description: download its [`SKILL.zip`](https://github.com/256hax/one-liner/releases/latest/download/SKILL.zip) and upload it the same way.
+3. (Recommended) Also install the [one-liner](https://github.com/256hax/one-liner) skill, used for the Brief description: download its [`one-liner-SKILL.zip`](https://github.com/256hax/one-liner/releases/latest/download/one-liner-SKILL.zip) and upload it the same way.
 
 ## Run
 

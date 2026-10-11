@@ -53,7 +53,7 @@ If you know you are not running on Opus, say so plainly and suggest switching (i
 ### Step 2. Check the one-liner skill
 The Brief description depends on the `one-liner` skill (see `field-guide.md`). Check whether a skill named `one-liner` appears in your available skills.
 - If it is available, continue.
-- If not, tell the founder it is needed: download one-liner's `SKILL.zip` from https://github.com/256hax/one-liner/releases/latest/download/SKILL.zip and upload it the same way they installed this skill.
+- If not, tell the founder it is needed: download `one-liner-SKILL.zip` from https://github.com/256hax/one-liner/releases/latest/download/one-liner-SKILL.zip and upload it the same way they installed this skill.
   After installing, they start a new chat so the skill is loaded, and ask again to submit to Colosseum.
 - Ask with choices: "Install now" / "Continue without it". If they continue without it, the Brief description uses only the pitch deck and X, and a line stays empty for the founder if its source is missing.
 
