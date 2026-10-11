@@ -22,3 +22,4 @@ submission form/
 # Build output (attach to a GitHub Release instead)
 *.zip
 tmp/
+SKILL.zip
