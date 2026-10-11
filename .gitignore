@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+__MACOSX/
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.DocumentRevisions-V100
+
+# AI tools (Claude Code, Codex)
+.claude/
+CLAUDE.local.md
+.codex/
+
+# Private test data (never push)
+input data from founder/
+submission form/
+
+# Build output (attach to a GitHub Release instead)
+*.zip
+tmp/
