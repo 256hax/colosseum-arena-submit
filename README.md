@@ -1,6 +1,8 @@
 # Colosseum Arena Submit
 
-A Claude skill that fills in your [Colosseum Arena](https://colosseum.com/arena) hackathon submission form with you. Claude operates the form in the browser while you just chat.
+Chat fills your Colosseum submission
+
+For [Colosseum Hackathon](https://colosseum.com/hackathon) founders. Claude opens your submission form, fills in each answer from your pitch deck and X posts, and rewrites any field you ask about in chat. You click Submit.
 
 ## Why use it
 
