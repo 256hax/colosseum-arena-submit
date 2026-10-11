@@ -1,4 +1,4 @@
-# Colosseum Arena Submit
+# colosseum-arena-submit
 
 Chat fills your Colosseum submission
 
