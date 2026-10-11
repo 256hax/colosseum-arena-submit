@@ -23,7 +23,7 @@ You do by hand: upload the logo, invite teammates, click `Save draft`, `Save and
 ## Install
 
 1. Download `SKILL.zip` from [Releases](../../releases/latest).
-2. In Claude desktop, open **Settings > Capabilities > Skills** and upload the zip.
+2. In Claude desktop, open **Settings > Customize > Skills** and upload the zip.
 3. (Recommended) Also install the [one-liner](https://github.com/256hax/one-liner) skill. It is used for the Brief description.
 
 ## Run
