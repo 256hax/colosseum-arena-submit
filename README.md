@@ -4,7 +4,7 @@ Chat fills your Colosseum submission
 
 For [Colosseum Hackathon](https://colosseum.com/hackathon) founders. Claude opens your submission form, fills in each answer from your pitch deck and X posts, and rewrites any field you ask about in chat. You click Submit.
 
-<video src="https://github.com/256hax/colosseum-arena-submit/raw/refs/heads/main/docs/demo.mp4" controls width="600"></video>
+<video src="https://cdn.jsdelivr.net/gh/256hax/colosseum-arena-submit@main/docs/demo.mp4" controls width="600"></video>
 
 ## Why use it
 
